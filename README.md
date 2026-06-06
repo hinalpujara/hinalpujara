@@ -57,8 +57,7 @@ Applications (target: Fall 2028).
 ## 📊 This Week's LeetCode
 
 > Auto-committed via Chrome extension — solving 1-2 problems daily  
-> Currently on: Arrays & Strings (Phase 1)
-
+> Currently on: Trees + BFS/DFS (Phase 4)
 ---
 
 ## 📫 Let's Connect
